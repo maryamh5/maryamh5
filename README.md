@@ -91,7 +91,9 @@
 
 ## 📫 Contact Me
 
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/yourusername)
 📮 **Work Opportunities:** [info@maryamconsulting.com](mailto:info@maryamconsulting.com)  
 📬 **Student/General Contact:** [studentmaryam5@gmail.com](mailto:studentmaryam5@gmail.com)  
+🌐 [maryamconsulting.com](https://maryamconsulting.com)
 
 Thanks for stopping by! ⭐
