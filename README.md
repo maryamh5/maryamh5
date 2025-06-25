@@ -1,9 +1,22 @@
-## Hi there 👋
-
-<!--
-**maryamh5/maryamh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Maryam
+
+💡 *Empowering the UK housing and construction sector with digital transformation.*
+
+---
+
+## 📌 Table of Contents
+- [Hi, I'm Maryam](#-hi-im-maryam)
+- [Education](#-education)
+- [Projects & Goals](#-projects--goals)
+- [What I Do at Maryam Consulting](#-what-i-do-at-maryam-consulting)
+- [Tools I Use](#-tools-i-use)
+- [Devices I Work On](#-devices-i-work-on)
+- [What I'm Working On](#-what-im-working-on)
+- [Contact Me](#-contact-me)
+
+---
+
+## 👩‍💻 Hi, I'm Maryam
 
 🎓 Student at **The Open University**  
 📘 Pursuing a flexible **Open Degree** focused on business, finance, and law  
@@ -24,6 +37,7 @@
 ---
 
 ## 🚀 Projects & Goals
+
 - ✨ Build my online presence and digital brand  
 - 💼 Grow my consultancy supporting construction tech adoption  
 - 🌐 Complete and launch client websites (Webflow & CMS-based)  
@@ -34,6 +48,7 @@
 ---
 
 ## 🧠 What I Do at Maryam Consulting
+
 - ✅ Configure **COINS ERP** for UK housing and construction clients  
 - 🔗 Build and test **API integrations** (e.g., CRM to COINS, Outlook sync)  
 - 📤 Automate lead response workflows and system alerts  
@@ -43,6 +58,7 @@
 ---
 
 ## 🛠️ Tools I Use
+
 - 🎨 **Canva Pro** – branding, client materials, social content  
 - 🧠 **Notion Pro** – client dashboards, delivery plans, study hub  
 - 🤖 **GitHub Copilot** – learning automation & development workflows  
@@ -56,6 +72,7 @@
 ---
 
 ## 💻 Devices I Work On
+
 - **Lenovo Laptop** – COINS configs, website builds, heavy workflows  
 - **Samsung Tab A9** – for studying, notes, Canva design  
 - **iPhone** – scanning, content review, and managing comms on-the-go  
@@ -63,6 +80,7 @@
 ---
 
 ## 🌐 What I’m Working On
+
 - 🔄 Finalising Outlook + COINS API integration for automated lead handling  
 - 🧱 Building the **Maryam Consulting** website  
 - 🏠 Launching a new Webflow site for **DGCS Cobham Security**  
@@ -72,8 +90,8 @@
 ---
 
 ## 📫 Contact Me
-📮 **Work Opportunities:** info@maryamconsulting.com  
-📬 **Student/General Contact:** studentmaryam5@gmail.com  
+
+📮 **Work Opportunities:** [info@maryamconsulting.com](mailto:info@maryamconsulting.com)  
+📬 **Student/General Contact:** [studentmaryam5@gmail.com](mailto:studentmaryam5@gmail.com)  
 
 Thanks for stopping by! ⭐
-
