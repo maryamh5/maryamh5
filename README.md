@@ -59,15 +59,16 @@
 
 ## 🛠️ Tools I Use
 
-- 🎨 **Canva Pro** – branding, client materials, social content  
-- 🧠 **Notion Pro** – client dashboards, delivery plans, study hub  
-- 🤖 **GitHub Copilot** – learning automation & development workflows  
-- 🧾 **COINS ERP** – workflow configs, exports, reports, and SQL  
-- 💻 **Webflow** – building sites for my consulting firm & clients  
-- 🔧 **Postman** – for testing API integrations  
-- 🧪 **Replit** – to test and build automation code  
-- 📄 **Microsoft 365** – free via OU for client docs & reporting  
-- ☁️ **Google Drive / OneDrive** – for secure file sharing and version control  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+![COINS](https://img.shields.io/badge/COINS-FFD700?style=for-the-badge&logo=gear&logoColor=black)
 
 ---
 
@@ -91,9 +92,17 @@
 
 ## 📫 Contact Me
 
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/maryamh/)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/maryamh/)  
 📮 **Work Opportunities:** [info@maryamconsulting.com](mailto:info@maryamconsulting.com)  
 📬 **Student/General Contact:** [studentmaryam5@gmail.com](mailto:studentmaryam5@gmail.com)  
 🌐 [maryamconsulting.com](https://maryamconsulting.com)
+
+---
+
+## ⚡ Fun Fact
+
+I love transforming messy, manual processes into sleek, automated solutions that make life easier!
+
+---
 
 Thanks for stopping by! ⭐
